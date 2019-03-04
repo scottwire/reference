@@ -54,6 +54,7 @@ PHP
 1. [PHP Design Patterns](https://designpatternsphp.readthedocs.io/en/latest/README.html)
 2. [PHP Pandas Book](https://daylerees.com/php-pandas/)
 3. [PHP Doc Blocks](https://stackoverflow.com/questions/1310050/php-function-comments)
+4. [PDO](https://phpdelusions.net/pdo)
 
 MySQL
 ------
