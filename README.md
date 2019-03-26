@@ -25,10 +25,9 @@ CSS
 1. [Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 2. [Animista](http://animista.net/)
 3. [Moving Letters](http://tobiasahlin.com/moving-letters/)
-4. [Can I Use](https://caniuse.com/)
-5. [Flexbox Froggy](https://flexboxfroggy.com/)
-6. [CSS Grid Garden](https://cssgridgarden.com/)
-7. [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
+4. [Flexbox Froggy](https://flexboxfroggy.com/)
+5. [CSS Grid Garden](https://cssgridgarden.com/)
+6. [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
 
 
 Javascript
@@ -79,6 +78,7 @@ Tools
 7. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 8. [Remove BGs](https://www.remove.bg/)
 9. [SMTP Testing](https://mailtrap.io/)
+10. [Can I Use](https://caniuse.com/)
 
 SEO
 ------
