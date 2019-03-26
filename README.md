@@ -28,6 +28,7 @@ CSS
 4. [Can I Use](https://caniuse.com/)
 5. [Flexbox Froggy](https://flexboxfroggy.com/)
 6. [CSS Grid Garden](https://cssgridgarden.com/)
+7. [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
 
 
 Javascript
@@ -78,6 +79,14 @@ Tools
 7. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 8. [Remove BGs](https://www.remove.bg/)
 9. [SMTP Testing](https://mailtrap.io/)
+
+SEO
+------
+1. [Checkbot.io](https://www.checkbot.io/)
+
+Wordpress
+------
+1. [Wordpress Theme Development](https://stevepolito.design/blog/modern-wordpress-theme-development-2019/)
 
 General
 ------
