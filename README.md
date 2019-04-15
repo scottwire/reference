@@ -28,6 +28,7 @@ CSS
 4. [Flexbox Froggy](https://flexboxfroggy.com/)
 5. [CSS Grid Garden](https://cssgridgarden.com/)
 6. [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
+7. [Things Nobody Ever Taught Me About CSS](https://medium.com/@devdevcharlie/things-nobody-ever-taught-me-about-css-5d16be8d5d0e)
 
 
 Javascript
